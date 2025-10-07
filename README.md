@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #  About Me:
-Olá me chamo Luis Izé!<br><br>Atualmente estou estudando Programação Java, com a <br>realização de projetos e atividades na linguagem.<br> Porém ralizei projetos de estudo, trabalho ou pessoais em diversas linguagens!
+Olá me chamo Luis Izé!<br><br>Atualmente estou utilizando a linguagem Java, com a <br>realização de projetos e atividades na linguagem.<br> Porém realizei projetos de estudo, trabalho ou pessoais em diversas linguagens!
 
 
 ## 🌐 Socials:
